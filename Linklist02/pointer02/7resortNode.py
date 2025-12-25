@@ -15,7 +15,7 @@
 # 1->3->5->2->4->6->NULL
    
 class Solution:
-    def oddEvenList(self , head: ListNode) -> ListNode:
+    def oddEvenList(self , head) :
         # write code here
         if head == None or head.next == None:
             return head
