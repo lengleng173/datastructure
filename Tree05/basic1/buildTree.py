@@ -23,7 +23,7 @@ class Solution:
             except:
                 continue
 
-#优化
+#优化后
         # def recur(root,left,right):
         #     if left>right:#递归终止
         #         return 
